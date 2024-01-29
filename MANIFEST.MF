@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.8.1
+Build-Jdk: 11.0.16.1
+Built-By: Bonkd
+Plugin-Dependencies: chaosutils-plugin
+Plugin-Description: Bonkd Abyss RC Bot Plugin
+Plugin-Id: BonkdAbyssRC-plugin
+Plugin-License: GPLv3
+Plugin-Provider: Bonkd
+Plugin-Version: 0.1.0
+
